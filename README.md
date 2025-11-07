@@ -130,8 +130,9 @@ To start from a known state, flash the '200628.084 Teams & Others' firmware/OS t
 6.	Another file prompt window will open, select patch0.xml and click Open
 
 7.	Make sure the device is switched off at the plug. Plug the USB-C cable into the computer and the device. The USB-C port is under a rubber plug/foot on the bottom of the screen when in landscape orientation. Pull that out, it's just held in place with a little rubber adhesive. (Turning the power off/on at the plug can be easier than pulling out the power connector from the device which is fairly stiff, especially when holding the volume buttons down as in the next steps.)
+   **make sure you use a USB 2.0 cable or a USB 2.0 adapter**
 
-8.	Hold down both volume buttons and then switch on the power to the device. You may hear windows make a sound to indicate it is connected (if system sounds are on). Let go of volume buttons when you hear the sound or after 5 seconds. The device is now in EDL mode (Emergency Download Mode). The screen will be black.
+9.	Hold down both volume buttons and then switch on the power to the device. You may hear windows make a sound to indicate it is connected (if system sounds are on). Let go of volume buttons when you hear the sound or after 5 seconds. The device is now in EDL mode (Emergency Download Mode). The screen will be black.
 
 > [!NOTE]
 > Leaving the device on EDL for too long might cause the following error "main:320 Uploading Image using Sahara protocol failed". Be sure to redo step 7 and 9 if you are switching cables.
